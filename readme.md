@@ -1,6 +1,6 @@
 ## Preview
 
-![[https://pic.imgdb.cn/item/66e3aedcd9c307b7e941a7db.png]]
+![[https://github.com/Li-Yuheng/INFO-6150-Assignment-01/blob/main/pubilc/img/assignment-01-preview.png]]
 
 ## summary
 #### In this program, I used all controls requires:
@@ -89,5 +89,3 @@ In footer, user can use tel or mailto for contact information. Besides, I used s
 ## About interface
 
 For button and other elements that users can interface, there show shadow when users move mouse at them to enhence interface.
-
-## More
