@@ -8,6 +8,7 @@
 - Table
 - Form
 - Images
+- Hyperlink
 - Button
 - audio
 - video
@@ -76,6 +77,7 @@ This part contains the most important function. Users can buy, preview and like 
 - Table
 - audio
 - video
+- Hyperlink
 
 #### footer
 
