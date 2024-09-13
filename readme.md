@@ -1,6 +1,6 @@
 ## Preview
 
-![[https://github.com/Li-Yuheng/INFO-6150-Assignment-01/blob/main/pubilc/img/assignment-01-preview.png]]
+![image](https://github.com/Li-Yuheng/INFO-6150-Assignment-01/blob/main/pubilc/img/assignment-01-preview.png)
 
 ## summary
 #### In this program, I used all controls requires:
