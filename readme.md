@@ -1,6 +1,6 @@
 ## Preview
 
-![[pubilc/img/assignment-01-preview.png]]
+![[https://pic.imgdb.cn/item/66e3aedcd9c307b7e941a7db.png]]
 
 ## summary
 #### In this program, I used all controls requires:
